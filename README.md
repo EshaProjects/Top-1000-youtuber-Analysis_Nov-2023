@@ -3,4 +3,4 @@ Analyzed the data of top 1000 Youtubers for Nov 2023 to uncover insights into th
 
 https://apple-carbon-neutrality.my.canva.site/top-1000-youtubers-analysis
 
-Prepared this in Power BI and presented the visuals/data in Canva site
+Presenting the visuals/data in Canva site
